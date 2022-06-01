@@ -27,3 +27,5 @@ issue74-*.tar
 
 .elixir_ls
 .DS_Store
+*-shm
+*-wal
